@@ -1,3 +1,3 @@
 # Chapter10
 
-React practice with useEffect, debounce, useReducer, and useContext
+More React practice. Concepts covered include debounce, useEffect, useReducer, useContext, useImperativeHandle, forwardRef, and useRef.
