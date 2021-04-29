@@ -1,3 +1,3 @@
 # Chapter10
 
-Practice with useEffect and debounce
+React practice with useEffect, debounce, and useReducer
